@@ -7,7 +7,7 @@
       - Don't ever get to hear a "This is so ugly" pal.
  - [Clean Software Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
       - How to create software without getting scre**d later on.
-- [Awesome Architecture](https://awesome-architecture.com)
+ - [Awesome Architecture](https://awesome-architecture.com)
       - Look cool AF by knowing architecture a lil deeper.
 
  ## Systems Design
