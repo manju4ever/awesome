@@ -1,5 +1,5 @@
 # Awesome List
-
+> Become a kickass engineer by learning some good stuff !
 
 
 ## Software Engineering
